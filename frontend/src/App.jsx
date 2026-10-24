@@ -75,7 +75,7 @@ function App() {
     });
 
     try {
-      const response = await fetch("https://mental-fitness-tracker-2.onrender.com/predict/", {
+      const response = await fetch("https://mental-fitness-tracker-2.onrender.com/predict", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
