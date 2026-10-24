@@ -241,6 +241,7 @@ Expand educational resources on healthy habits and well-being.
 This application is an educational and experimental project. Its predictions are based on survey inputs and a trained machine learning model. They are not a clinical assessment, medical diagnosis, or substitute for professional mental health care.
 
 Model predictions may be inaccurate or biased. Users should not make important health decisions based solely on the application's output. Avoid submitting sensitive personal information.
+link:https://mental-fitness-tracker.vercel.app/
 
 👩‍💻 Author
 
