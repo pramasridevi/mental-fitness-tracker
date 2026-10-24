@@ -154,7 +154,7 @@ python app.py
 
 The backend should run at:
 
-http://127.0.0.1:5000
+https://mental-fitness-tracker-2.onrender.com/predict
 
 3. Set Up the Frontend
 
